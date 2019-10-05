@@ -1,4 +1,3 @@
-import pandas as pd
 from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import classification_report
